@@ -1,0 +1,10 @@
+LSTM TEXT GENERATION - SAMPLE OUTPUTS
+
+Seed: to be or not to be
+Generated: to be or not to be safe as thou canst thou shalt owe thee i have the most play to thee as thou a lads tomorrow fool i have done this
+
+Seed: the king shall
+Generated: the king shall be content to see the queen s livery what prospero nay by day and the king is not yet in the dead the morning bona should not use so many as a
+
+Seed: love is
+Generated: love is eye of men s cave and art so his breath is as of thy sweet crowns and his trust to me and bright than now too sure i hope in

@@ -1,0 +1,13 @@
+SUBMISSION CHECKLIST
+
+[ ] text_generation.py
+[ ] requirements.txt
+[ ] README.md
+[ ] dataset/shakespeare.txt
+[ ] models/best_lstm.keras
+[ ] models/final_lstm.keras
+[ ] models/vocabulary.json
+[ ] outputs/generated_samples.txt
+[ ] README contains dataset source
+[ ] README contains architecture and training explanation
+[ ] Sample outputs generated from at least 3 seed inputs
